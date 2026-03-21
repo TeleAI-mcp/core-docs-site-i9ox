@@ -1,2 +1,3 @@
-# core-docs-site-i9ox
-A documentation website for modern development workflows
+# Core Docs Site I9Ox
+
+A documentation website for modern development workflows.
